@@ -1,2 +1,3 @@
  #!/bin/bash
- echo "Als school and amigoscode"
+ echo "Als"
+ 
